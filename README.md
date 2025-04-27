@@ -4,6 +4,11 @@ Este projeto é um sistema de autenticação (Login, Cadastro e atualização de
 
 O sistema permite que usuários criem contas, façam login, atualize seus dados, e também gerencia sessões de forma segura.
 
+Rotas de acesso:
+http://localhost/user-management-php/login.php
+http://localhost/user-management-php/cadastre.php
+http://localhost/user-management-php/profile.php
+
 ---
 
 ## 📋 Funcionalidades

@@ -29,6 +29,10 @@ O sistema permite que usuários criem contas, façam login, atualize seus dados,
 
 ## 🚀 Como executar o projeto
 
+## OBS
+- Para desenvolver esse projeto, utilizei o XAMPP, pois, ele já vem com tudo que precisava. Rodei apenas o Apache e MySql
+- Lembre de criar o BD com o nome user_management e a tabela users
+
 ### 1. Pré-requisitos
 
 - PHP instalado (>= 8.0)
@@ -38,15 +42,4 @@ O sistema permite que usuários criem contas, façam login, atualize seus dados,
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/
-
-
-### 3. O que utilizei?
-
-- Para desenvolver esse projeto, utilizei o XAMPP, pois, ele já vem com tudo que precisava. Rodei apenas o Apache e MySql
-
-
-### 4. OBS
-
-- Lembre de criar o BD com o nome user_management e a tabela users
-
+git clone https://github.com/Antonio-Nasc/user-management-php.git
